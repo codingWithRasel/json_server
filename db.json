@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "name": "Rasel",
+      "email": "20rasel@gmail.com",
+      "phone": "01712345678",
+      "id": 1
+    },
+    {
+      "name": "Hossain",
+      "email": "hossain00@gmail.com",
+      "phone": "01812345678",
+      "id": 2
+    },
+    {
+      "name": "Sajon",
+      "email": "Sajon00@gmail.com",
+      "phone": "01912345678",
+      "id": 3
+    },
+    {
+      "name": "Rahman",
+      "email": "Rahman00@gmail.com",
+      "phone": "01312345678",
+      "id": 4
+    },
+    {
+      "name": "Ranu",
+      "email": "Ranu00@gmail.com",
+      "phone": "01512345678",
+      "id": 5
+    },
+    {
+      "name": "Mondol",
+      "email": "Mondol00@gmail.com",
+      "phone": "01412345678",
+      "id": 6
+    }
+  ]
+}
